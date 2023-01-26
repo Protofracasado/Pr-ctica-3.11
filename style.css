@@ -1,0 +1,25 @@
+table.rojo {
+    border: red 1px solid;
+    width: 4%;
+}
+
+tr{
+    text-align: center;
+}
+
+caption{
+    text-align: left;
+}
+
+td.azul {
+    border: blue 3px solid;
+}
+
+.verde{
+    border: green 1px solid;
+}
+
+table.verdeespaciado{
+    border: green 1px solid;
+    width: 40%;
+}
